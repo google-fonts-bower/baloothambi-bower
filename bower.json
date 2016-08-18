@@ -1,0 +1,17 @@
+{
+    "name": "baloothambi-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ek Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/baloothambi-bower.git"
+    },
+    "description": "Baloo Thambi font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
